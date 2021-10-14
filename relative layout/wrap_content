@@ -1,0 +1,3 @@
+For my mobile layout, I need to use wrap_content
+There are lots of different screen sizes phones tablets laptops and so on. we need to fit the screen size all devices.
+That's why we need to use "wrap_content". 
